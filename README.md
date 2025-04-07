@@ -20,6 +20,9 @@ Not required but if you want... then by all means gib me ur cash please 💰 �
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gbrl_str) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white)](https://twitch.tv/xstrdoto)
 
+# Contato
+gabriel.developed@gmail.com
+
 Made with 💖 and JavaScript!
 
 ## License
